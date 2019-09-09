@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="be6b761d-2038-4fc2-afda-4d7475aa4208" name="VDS" url="http://77.222.63.159">
+        <fileTransfer host="77.222.63.159" port="21" rootFolder="/www/microcrm.code-on.space">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
